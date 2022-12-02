@@ -156,7 +156,7 @@ nav svg {
   justify-content: center;
 }
 .total-amount {
-  color: var(--clr-white);
+  color: #fff;
   margin-bottom: 0;
   font-size: 1.25rem;
 }
